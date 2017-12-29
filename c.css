@@ -1,0 +1,29 @@
+
+
+header nav, header nav ul, header nav ul li {
+	display: inline-block;
+}
+
+header nav ul li {
+	margin: 0px 10px;
+}
+
+header nav ul li a {
+	text-decoration: none;
+	font-family: "Lato", Arial, sans-serif;
+	color: white;
+	font-size: 16px;
+	transition: color 0.15s ease-in-out;
+	
+	float: right;
+}
+
+header nav ul li a:hover{
+	color: #ddd;
+}
+
+header{
+	width: 1348px;
+	margin:0px auto;
+	background: #555;
+}

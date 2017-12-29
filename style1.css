@@ -1,0 +1,110 @@
+body{
+	background-image:url("http://www.aivault.com/wp-content/uploads/2010/05/02prev.jpg");	
+		}
+		h1 {
+			color: #4a352d;
+			font-size: 80px;
+			font-family: calibri;
+			font-weight:normal;
+			text-align:center;
+			border: 5px dotted #4a352d;
+		}
+		p{
+			font-weight: bold;
+			font-size:22px;
+		}
+		a{
+			background-color:#05adf9;
+			text-decoration:none;
+			text-align: center;
+			padding:5px 4px 14px 1px;
+			transition: 0.3s ease-in-out;
+			padding:0.1px;
+		}
+
+		a:hover{
+			background-color:navy;
+			color:black;
+			padding: 5px;
+		}
+		img{
+			border: 10px solid #4a352d;
+			cursor:pointer;
+			transition: 2s ease;
+			
+
+		}
+
+		img:hover{
+				border-color:brown;
+			}
+		.zalia{
+			color:green;
+			
+		}
+		.big{
+			text-transform: uppercase;
+
+		}
+		#pirmasSakinys{
+			width:320px;
+			color:green;
+		}
+		p, h1, h2, h3, ol, ul, em{
+			font-family:'Lobster', cursive;
+		}
+	
+
+		}
+		.padded{
+			background-color:pink;
+			cursor: pointer;
+			color:black;
+			padding: 28px;
+			transition: 10s;
+		}
+
+		.padded:hover{
+			background: yellow;
+		}
+
+		.pad1{
+			background: green;
+			cursor: pointer;
+			color: red:
+			padding: 28;
+			transition:10s ease;
+			
+		}
+
+		 .pad1:hover{
+		 	background: blue;
+		 }
+
+		.pad2{
+			background: white;
+			cursor: pointer;
+			color: yellow
+			padding: 28;
+			transition:10s ease;
+		}
+		.pad2:hover{
+			background:black;
+			color:blue;
+		}
+
+		.abc{
+			background: pink;
+			color: #455;
+		}
+
+		.icon{
+			height:200px;
+			width:300px;
+			background:#403531;
+			border: 5px solid black;
+			background-image: url("hand-writing-close-up-animated-gif.gif");
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: 80%;
+		}
